@@ -1,2 +1,4 @@
 Pug is the best dog.
 I am not a dog.
+Pugs love food.
+I love food.
