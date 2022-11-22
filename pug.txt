@@ -6,3 +6,5 @@ I love food.
 
 I am a developer
 I am BI developer and analyst
+I like programming
+-----------
